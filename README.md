@@ -12,4 +12,4 @@ With this tool you can directly download or create download link to any GitHub *
 
 <table><tr><td> <img src="https://cloud.githubusercontent.com/assets/5456665/17822364/940bded8-6678-11e6-9603-b84d75bccec1.gif" /> </td></tr></table>
 
-###Thanks MinhasKamal
+### Thanks MinhasKamal
